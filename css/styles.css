@@ -74,7 +74,10 @@ button{
 	transform: rotate(-45deg);
 	top: 12px;
 }
-
+.li{
+	margin-left: 55px;
+	list-style:disc ;
+}
 .header__menu__content{
 	padding-top: 5vh;
 	top: 0;
@@ -96,9 +99,12 @@ button{
 }
 
 .header__menu__elements{
-	margin: 1vh;
+	margin-top: 1vh;
 }
-
+.header__menu__chapter{
+	margin-top: 10px;
+	font-size: 26px;
+}
 .header__menu__element{
 	font-size: 24px;
 }
